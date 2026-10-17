@@ -3,7 +3,7 @@
 Works on Windows 10 and 11 (64-bit).
 
 ## 1. Download
-From the **[latest release](../../../releases/latest)**, download `Atlas-Setup-<version>-Windows.exe`.
+From the **[latest release](../../releases/latest)**, download `Atlas-Setup-<version>-Windows.exe`.
 
 ## 2. Install
 1. Double-click the downloaded file.

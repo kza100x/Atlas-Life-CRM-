@@ -3,7 +3,7 @@
 Works on macOS 11 (Big Sur) and newer.
 
 ## 1. Download
-From the **[latest release](../../../releases/latest)**, download:
+From the **[latest release](../../releases/latest)**, download:
 - **Apple chip (M1–M4):** `Atlas-<version>-Mac-AppleSilicon.zip`
 - **Intel:** `Atlas-<version>-Mac-Intel.zip`
 

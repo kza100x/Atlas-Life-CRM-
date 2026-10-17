@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/logo.png" width="120" alt="Atlas"></p>
+<p align="center"><img src="logo.png" width="120" alt="Atlas"></p>
 
 <h1 align="center">Atlas</h1>
 <p align="center"><b>One private command centre for your businesses and your life.</b><br>
@@ -6,12 +6,12 @@ Money, clients, tasks, habits, goals and health in one app that keeps everything
 
 <p align="center">
 <a href="../../releases/latest"><b>⬇ Download the latest version</b></a> ·
-<a href="docs/INSTALL-MAC.md">Mac setup</a> ·
-<a href="docs/INSTALL-WINDOWS.md">Windows setup</a> ·
-<a href="docs/PHONE.md">Phone setup</a>
+<a href="INSTALL-MAC.md">Mac setup</a> ·
+<a href="INSTALL-WINDOWS.md">Windows setup</a> ·
+<a href="PHONE.md">Phone setup</a>
 </p>
 
-![Atlas on desktop](screenshots/desktop-today.png)
+![Atlas on desktop](desktop-today.png)
 
 ## What it does
 
@@ -39,14 +39,14 @@ Money, clients, tasks, habits, goals and health in one app that keeps everything
    | Windows 10 or 11 | `Atlas-Setup-<version>-Windows.exe` |
 
    Not sure which Mac you have? Click the Apple menu  → **About This Mac**. "Chip: Apple M…" means Apple chip. "Processor: Intel" means Intel.
-2. Follow the short guide: **[Mac](docs/INSTALL-MAC.md)** or **[Windows](docs/INSTALL-WINDOWS.md)**.
-3. Optional: put Atlas on your phone using **[Phone setup](docs/PHONE.md)**.
+2. Follow the short guide: **[Mac](INSTALL-MAC.md)** or **[Windows](INSTALL-WINDOWS.md)**.
+3. Optional: put Atlas on your phone using **[Phone setup](PHONE.md)**.
 
 When Atlas opens for the first time, a short setup asks your name and what you want to use. You can also explore with sample data first and clear it with one click.
 
 ## Phone
 
-<p><img src="screenshots/phone-today.png" width="230"> <img src="screenshots/phone-menu.png" width="230"> <img src="screenshots/phone-ledger.png" width="230"></p>
+<p><img src="phone-today.png" width="230"> <img src="phone-menu.png" width="230"> <img src="phone-ledger.png" width="230"></p>
 
 ## Updating
 Download the newest release and install it over the old one, the same way you installed it. Your data stays in `Documents/Atlas` and isn't touched.
