@@ -22,12 +22,12 @@ Money, clients, tasks, habits, goals and health in one app that keeps everything
 | **Money** | Move money between your businesses and yourself (drawings, dividends, salary, loans), plus cash flow, bills, budgets, net worth and multi-currency support. |
 | **Life** | Tasks with times, goals with milestones, people (birthdays, keeping in touch), renewals (passport, insurance), check-in and journal. |
 | **Health** | Habits, gym log and running. |
-| **Phone** | A phone version that works offline and syncs with your computer over your own Wi-Fi. |
+| **Phone** | A phone version that works offline and syncs with your computer over your own network (home Wi-Fi, anywhere you move, or your phone's hotspot). |
 
 ## Private by design
 - **No account and no cloud.** Your data is a single file on your computer: `Documents/Atlas/atlas-data.json`.
 - Atlas saves within a second of every change and keeps a dated backup every day (the last 60 days).
-- Phone sync happens only on your own Wi-Fi, encrypted, directly between your devices. Nothing goes to the internet.
+- Phone sync happens only on your own network (Wi-Fi or your phone's hotspot), encrypted, directly between your devices. Nothing goes to the internet.
 
 ## Get it
 1. Open **[Releases](../../releases/latest)** and download the file for your computer:
